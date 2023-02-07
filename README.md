@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoussefShabo
-- 👀 I’m interested in UX/UI Design
-- 🌱 I’m currently learning HTML, CSS, Java Script, Figma etc.
+- 👀 I’m interested in Full-Stack development
+- 🌱 I’m currently learning HTML, CSS, Java Script, React, Ruby etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me youssefshabo@gmail.com
 
