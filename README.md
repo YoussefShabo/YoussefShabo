@@ -5,6 +5,3 @@ My commitment to quality and attention to detail ensure that every project I und
 -                  🌟 https://youssefshabo.com/
                    📌 https://www.linkedin.com/in/youssefshabo/
                    
-some of my skills:
-
-[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](url)
