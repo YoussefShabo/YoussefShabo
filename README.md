@@ -9,7 +9,7 @@ Full-Stack developer & Designer
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [youssefshabo.com](http://youssefshabo.com/)
 * ✉️  You can contact me at [youssefshabo@gmail.com](mailto:youssefshabo@gmail.com)
-* 🚀  I'm currently working on [RaYo Barrels](http://quiet-ocean-59201.herokuapp.com/)
+* 🚀  I'm currently working on The Opportunity Project Hackathon
 * 🧠  I'm learning Next.js
 
 ### Skills
